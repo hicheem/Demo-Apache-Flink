@@ -28,7 +28,7 @@ nc -l 3003
 ./flink run "name of the jar file".jar
 ```
 
-3. To see the result go to the log file and search for the file that has the name 'flink-root-taskexecutor-0-localhost.localdomain.out'
+3. To see the result go to the log file and search for the file that has the name ```flink-root-taskexecutor-0-localhost.localdomain.out```
 
 4. once the file found type the following to see the results in real time.
 ```shell
